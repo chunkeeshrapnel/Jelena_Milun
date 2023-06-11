@@ -1,0 +1,62 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-image: url("media/pozadina.png");
+}
+
+h1{
+	font-family: JelenaMilun;
+	color:#120F41;
+	font-size: 50px;
+}
+h2{
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 30px;
+	color:rgba(0,49,9,1.00)
+}
+h3{
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 22px;
+	color:rgba(183,23,23,1.00);
+}
+.blok {
+	background-color: rgba(255,252,252,0.75);
+	padding: 20px;
+	width: 800px;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 17px;
+	
+}
+.novi_blok {
+	background-color: rgba(55,156,74,0.90);
+	padding: 20px;
+	width: 800px;
+}
+p {
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 17px;
+}
+.mali {
+	background-color: rgba(193,246,255,1.00);
+	width: 800px;
+	padding: 20px;
+}
+.vid {
+	background-color: rgba(255,252,252,0.75);
+	padding: 20px;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 17px;
+}
+a:link {
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 17px;
+	color: rgba(0,13,111,1.00);
+}
+
+a:visited{
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 17px;
+	color: rgba(0,1,69,1.00);
+}
+	
